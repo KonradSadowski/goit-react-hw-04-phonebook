@@ -1,0 +1,22 @@
+.Form {
+  border: 1px solid black;
+  width: fit-content;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.labelForm {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.formButton {
+  display: flex;
+  width: 100px;
+  margin: 0 auto;
+
+  justify-content: center;
+}
